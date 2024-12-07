@@ -1,1 +1,42 @@
 /*  your css code here. If applicable */
+#table-1 {
+	width:100%;
+}
+
+td {
+	border:1px solid black;
+	margin:1px;
+	padding:1px;
+}
+
+#t11 {
+	text-align: left;
+}
+
+#t12 {
+	text-align: center;
+}
+
+#t13 {
+	text-align: right;
+}
+
+#table-2 {
+	width:100%;
+}
+
+#t21 {
+	height:15px;
+}
+
+#table-3 {
+	width:100%;
+}
+
+#t31 {
+	height:15px
+}
+
+#t32 {
+	text-align:center;
+}
